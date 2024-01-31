@@ -1,0 +1,779 @@
+[
+    {
+        "constituency": "PS-2 (Jacobabad-ll)",
+        "candidate": "Saddam Khoso",
+        "symbolname": "MOBILE CHARGER \u0645\u0648\u0628\u0627\u0626\u0644 \u0686\u0627\u0631\u062c\u0631",
+        "image_url": "https://insafpk.github.io/pticandidates/img/mobile-charger.6c8f5067.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFbti9CnA7z9mdoD40M"
+    },
+    {
+        "constituency": "PS-3 (Jacobabad-lll)",
+        "candidate": "Irfan Ali",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFbti9CnA7z9mdoD40M"
+    },
+    {
+        "constituency": "PS-11 (Larkana-ll)",
+        "candidate": "Mah Jabeen Mughal",
+        "symbolname": "DOVE \u0641\u0627\u062e\u062a\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dove.5157b497.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLsrxALdQeeuO92cM10"
+    },
+    {
+        "constituency": "PS-12 (Larkana-lll)",
+        "candidate": "Ghulam Murtaza Soomro",
+        "symbolname": "BOTTLE \u0628\u0648\u062a\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/bottle.6d6870b5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKqNTR9WtCB8MTLM52a"
+    },
+    {
+        "constituency": "PS-14 (Kamber Shahdadkot-l)",
+        "candidate": "Naheed Khawar",
+        "symbolname": "AEROPLANE \u06c1\u0648\u0627\u06cc \u062c\u06c1\u0627\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/aeroplane.0ea1932b.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFnKgF3bbUxnldjmG2x"
+    },
+    {
+        "constituency": "PS-16 (Kamber Shahdadkiot-lll)",
+        "candidate": "Muhammad Ali Hakro",
+        "symbolname": "AEROPLANE \u06c1\u0648\u0627\u06cc \u062c\u06c1\u0627\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/aeroplane.0ea1932b.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKtaMc8KMqtpR6yIA20"
+    },
+    {
+        "constituency": "PS-18 (Ghotki-l)",
+        "candidate": "Ali Akbar",
+        "symbolname": "LOTUS \u06a9\u0646\u0648\u0644 \u06a9\u0627 \u067e\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/lotus.05482ba3.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLBp7YJUM2cwkHrLc05"
+    },
+    {
+        "constituency": "PS-19 (Ghotki-ll)",
+        "candidate": "Mujeeb ur Rehman Marnas",
+        "symbolname": "RABAB \u0631\u0628\u0627\u0628",
+        "image_url": "https://insafpk.github.io/pticandidates/img/Rabab.046a1162.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLBp7YJUM2cwkHrLc05"
+    },
+    {
+        "constituency": "PS-20 (Ghotki-lll)",
+        "candidate": "Abdul Sattar Gadani",
+        "symbolname": "MATCH BOX \u0645\u0627\u0686\u0633",
+        "image_url": "https://insafpk.github.io/pticandidates/img/matchbox.de251434.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKMKdEGehEKpnRu9a14"
+    },
+    {
+        "constituency": "PS-21 (Ghotki-lV)",
+        "candidate": "Dr. Ghulam Raza Channa",
+        "symbolname": "BATTERY \u0628\u06cc\u0679\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/battery.e23a3156.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKMKdEGehEKpnRu9a14"
+    },
+    {
+        "constituency": "PS-22 (Sukkur-l)",
+        "candidate": "Muhammad Jadal Mangi",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKWpXjBqbrILW53qQ0L"
+    },
+    {
+        "constituency": "PS-24 (Sukkur-lll)",
+        "candidate": "Safia Baloch",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFvSRR7YSd6J3MwCL3x"
+    },
+    {
+        "constituency": "PS-25 (Sukkur-lV)",
+        "candidate": "Abdul Aziz Abro",
+        "symbolname": "ROLLER OF WOOD \u0628\u06cc\u0644\u0646",
+        "image_url": "https://insafpk.github.io/pticandidates/img/roller-of-wood.924793a6.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFvSRR7YSd6J3MwCL3x"
+    },
+    {
+        "constituency": "PS-26 (Khairpur-l)",
+        "candidate": "Noor Hassan Sakhani",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGHpBpBPzjSDHU3ST0h"
+    },
+    {
+        "constituency": "PS-28 (Khairpur-lll)",
+        "candidate": "Allah Bachayau Shar",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKeJ1uA89MiApA18g00"
+    },
+    {
+        "constituency": "PS-30 (Khairpur-V)",
+        "candidate": "Pir Ahmed Ali Shah",
+        "symbolname": "HUKKAH \u062d\u0642\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/hukkah.bace7b1f.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG51DdD38Cbc1hsyA21"
+    },
+    {
+        "constituency": "PS-31 (Khairpur-Vl)",
+        "candidate": "Fayyaz Ahmed Abbasi",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG51DdD38Cbc1hsyA21"
+    },
+    {
+        "constituency": "PS-32 (Naushahro Feroze-l)",
+        "candidate": "Abdul Wahab Kalhoro",
+        "symbolname": "MOBILE CHARGER \u0645\u0648\u0628\u0627\u0626\u0644 \u0686\u0627\u0631\u062c\u0631",
+        "image_url": "https://insafpk.github.io/pticandidates/img/mobile-charger.6c8f5067.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKbckWKwqSPP6FGez0B"
+    },
+    {
+        "constituency": "PS-33 (Naushahro Feroze-ll)",
+        "candidate": "Rizwan Ahmad",
+        "symbolname": "BRICK \u0627\u06cc\u0646\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/brick.d8fbdcd1.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKbckWKwqSPP6FGez0B"
+    },
+    {
+        "constituency": "PS-34 (Naushahro Feroze-lll)",
+        "candidate": "Riaz Ahmed",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLKuv73bbVD1XRDL22C"
+    },
+    {
+        "constituency": "PS-35 (Naushahro Feroze-lV)",
+        "candidate": "Muhammad Ramzan",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLKuv73bbVD1XRDL22C"
+    },
+    {
+        "constituency": "PS-36 (Shaheed Benazirabad-l)",
+        "candidate": "Mir Bahawal Rind",
+        "symbolname": "CHARPAI \u0686\u0627\u0631\u067e\u0627\u0626\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/charpai.289d6dd5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGS3ytBlHpZO2dvkX1h"
+    },
+    {
+        "constituency": "PS-37 (Shaheed Benazirabad-ll)",
+        "candidate": "Inayat Ali Rind",
+        "symbolname": "CHARPAI \u0686\u0627\u0631\u067e\u0627\u0626\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/charpai.289d6dd5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGS3ytBlHpZO2dvkX1h"
+    },
+    {
+        "constituency": "PS-38 (Shaheed Benazirabad-lll)",
+        "candidate": "Nadeem Rajput",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFeIfmDuMRbNYH4nx2h"
+    },
+    {
+        "constituency": "PS-39 (Shaheed Benazirabad-lV)",
+        "candidate": "Abdul Latif",
+        "symbolname": "CHARPAI \u0686\u0627\u0631\u067e\u0627\u0626\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/charpai.289d6dd5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFeIfmDuMRbNYH4nx2h"
+    },
+    {
+        "constituency": "PS-40 (Shanghar-l)",
+        "candidate": "Mushtaque",
+        "symbolname": "SIGN BOARD \u0633\u0627\u0626\u0646 \u0628\u0648\u0631\u0688",
+        "image_url": "https://insafpk.github.io/pticandidates/img/Sign-Board.cd3304a1.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGUZCP0AgW71SR1zj0N"
+    },
+    {
+        "constituency": "PS-41 (Shanghar-ll)",
+        "candidate": "Muhammad Aslam",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGUZCP0AgW71SR1zj0N"
+    },
+    {
+        "constituency": "PS-42 (Sanghar-lll)",
+        "candidate": "Ali Raza",
+        "symbolname": "BOTTLE \u0628\u0648\u062a\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/bottle.6d6870b5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGUZCP0AgW71SR1zj0N"
+    },
+    {
+        "constituency": "PS-43 (Sanghar-IV)",
+        "candidate": "Ayoub Khoso",
+        "symbolname": "PEACOCK \u0645\u0648\u0631",
+        "image_url": "https://insafpk.github.io/pticandidates/img/peacock.7bf62c8c.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKcFsS65yDBnnYLkM18"
+    },
+    {
+        "constituency": "PS-44 (Sanghar-V)",
+        "candidate": "Muhammad Khashif Amin",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKcFsS65yDBnnYLkM18"
+    },
+    {
+        "constituency": "PS-45 (Mirpurkhas-l)",
+        "candidate": "Aftab Hussain Qureshi",
+        "symbolname": "PINEAPPLE \u0627\u0646\u0646\u0627\u0633",
+        "image_url": "https://insafpk.github.io/pticandidates/img/Pineapple.66ed3531.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGB8BQJ3jv8OXmHBC2Q"
+    },
+    {
+        "constituency": "PS-46 (Mirpurkhas-ll)",
+        "candidate": "Syed Mumtaz Ali Shah",
+        "symbolname": "BOTTLE \u0628\u0648\u062a\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/bottle.6d6870b5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaGB8BQJ3jv8OXmHBC2Q"
+    },
+    {
+        "constituency": "PS-47 (Mirpurkhas-lll)",
+        "candidate": "Ali Raza",
+        "symbolname": "BOTTLE \u0628\u0648\u062a\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/bottle.6d6870b5.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKiXSYHLHQYUtpRFV0z"
+    },
+    {
+        "constituency": "PS-48 (Mirpurkhas-lV)",
+        "candidate": "Muhammad Iqbal",
+        "symbolname": "DICE \u067e\u0627\u0646\u0633\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dice.3978ab49.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKiXSYHLHQYUtpRFV0z"
+    },
+    {
+        "constituency": "PS-49 (Umerkot-l)",
+        "candidate": "Akbar Ali",
+        "symbolname": "HAND PUMP \u06c1\u06cc\u0646\u0688 \u067e\u0645\u067e",
+        "image_url": "https://insafpk.github.io/pticandidates/img/hand-pump.b3d308f8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG2lB4IiRoluB8YJL0I"
+    },
+    {
+        "constituency": "PS-50 (Umerkot-ll)",
+        "candidate": "Lekhraj Malhi",
+        "symbolname": "HAND PUMP \u06c1\u06cc\u0646\u0688 \u067e\u0645\u067e",
+        "image_url": "https://insafpk.github.io/pticandidates/img/hand-pump.b3d308f8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG2lB4IiRoluB8YJL0I"
+    },
+    {
+        "constituency": "PS-53 (Tharparkar-ll)",
+        "candidate": "Pehlaj Rai",
+        "symbolname": "MEDAL \u062a\u0645\u063a\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/medal.99f9bf2d.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKlHkW9cDDY3q2M6s3J"
+    },
+    {
+        "constituency": "PS-54 (Tharparkar-lll)",
+        "candidate": "Lajpat Rai",
+        "symbolname": "LAPTOP \u0644\u06cc\u067e \u0679\u0627\u067e",
+        "image_url": "https://insafpk.github.io/pticandidates/img/laptop.f2eba7a7.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFxxO3KAwErQkjybn0n"
+    },
+    {
+        "constituency": "PS-55 (Tharparkar-lV)",
+        "candidate": "Manji",
+        "symbolname": "AEROPLANE \u06c1\u0648\u0627\u06cc \u062c\u06c1\u0627\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/aeroplane.0ea1932b.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFxxO3KAwErQkjybn0n"
+    },
+    {
+        "constituency": "PS-56 (Matiari-l)",
+        "candidate": "Nargis Naz",
+        "symbolname": "AEROPLANE \u06c1\u0648\u0627\u06cc \u062c\u06c1\u0627\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/aeroplane.0ea1932b.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLOi17FCCoaynxDWz2F"
+    },
+    {
+        "constituency": "PS-57 (Matiari-ll)",
+        "candidate": "Gulzar Hussain",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaLOi17FCCoaynxDWz2F"
+    },
+    {
+        "constituency": "PS-58 (Tando Allahyar-l)",
+        "candidate": "Rashid Hussain Meo",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKgCIpJP214kMftpE0K"
+    },
+    {
+        "constituency": "PS-59 (Tando Allahyar-ll)",
+        "candidate": "Muhammad Aslam Laghari",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKgCIpJP214kMftpE0K"
+    },
+    {
+        "constituency": "PS-60 (Hyderabad-l)",
+        "candidate": "Afroz Shoro",
+        "symbolname": "HAND BAG \u062f\u0633\u062a\u06cc \u0628\u06cc\u06af",
+        "image_url": "https://insafpk.github.io/pticandidates/img/hand-bag.742112ca.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG9RVmIt5s2JaQcrp0o"
+    },
+    {
+        "constituency": "PS-61 (Hyderabad-ll)",
+        "candidate": "Anwar Ali",
+        "symbolname": "TAWA \u062a\u0648\u0627",
+        "image_url": "https://insafpk.github.io/pticandidates/img/tawa.0b534448.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG9RVmIt5s2JaQcrp0o"
+    },
+    {
+        "constituency": "PS-62 (Hyderabad-lll)",
+        "candidate": "Awais Khan",
+        "symbolname": "BEE \u0634\u06c1\u062f \u06a9\u06cc \u0645\u06a9\u06be\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/bee.f327f3fb.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKaYKkFi8xYArRhVq20"
+    },
+    {
+        "constituency": "PS-63 (Hyderabad-lV)",
+        "candidate": "Muhammad Rehan Rajput",
+        "symbolname": "LAPTOP \u0644\u06cc\u067e \u0679\u0627\u067e",
+        "image_url": "https://insafpk.github.io/pticandidates/img/laptop.f2eba7a7.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKaYKkFi8xYArRhVq20"
+    },
+    {
+        "constituency": "PS-64 (Hyderabad-V)",
+        "candidate": "Naeem Uddin",
+        "symbolname": "SHUTTLE COCK \u0634\u0679\u0644 \u06a9\u0627\u06a9",
+        "image_url": "https://insafpk.github.io/pticandidates/img/shuttle-cock.40aaf207.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKbK7S0G0XeMLnHS71R"
+    },
+    {
+        "constituency": "PS-65 (Hyderabad-VI)",
+        "candidate": "Shoaib Shoukat",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKbK7S0G0XeMLnHS71R"
+    },
+    {
+        "constituency": "PS-66 (Tando Muhammad Khan-l)",
+        "candidate": "Muhammad Altaf Nizamani",
+        "symbolname": "FRIDGE \u0641\u0631\u06cc\u062c",
+        "image_url": "https://insafpk.github.io/pticandidates/img/fridge.0e5e082b.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKUW1jHbFUzDjzxC109"
+    },
+    {
+        "constituency": "PS-67 (Tando Muhammad Khan-II)",
+        "candidate": "Abdul Rahim",
+        "symbolname": "LOTUS \u06a9\u0646\u0648\u0644 \u06a9\u0627 \u067e\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/lotus.05482ba3.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKUW1jHbFUzDjzxC109"
+    },
+    {
+        "constituency": "PS-68 (Badin-l)",
+        "candidate": "Atta Ur Rehman",
+        "symbolname": "FEATHER \u067e\u0631",
+        "image_url": "https://insafpk.github.io/pticandidates/img/feather.771a46ec.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFiHBd4CrfqESZGlf2f"
+    },
+    {
+        "constituency": "PS-69 (Badin-ll)",
+        "candidate": "Nawab Abu Bakar Talpur",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaFiHBd4CrfqESZGlf2f"
+    },
+    {
+        "constituency": "PS-70 (Badin-lll)",
+        "candidate": "Ali Akbar Lail",
+        "symbolname": "GOAT \u0628\u06a9\u0631\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/goat.94949732.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG5TQ10gcfSmPxZvR16"
+    },
+    {
+        "constituency": "PS-71 (Badin-IV)",
+        "candidate": "Ashfaque Ahmad",
+        "symbolname": "BOWL \u067e\u06cc\u0627\u0644\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/bowl.c13716b8.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG5TQ10gcfSmPxZvR16"
+    },
+    {
+        "constituency": "PS-72 (Badin-V)",
+        "candidate": "Hassan Ali Shah",
+        "symbolname": "FRIDGE \u0641\u0631\u06cc\u062c",
+        "image_url": "https://insafpk.github.io/pticandidates/img/fridge.0e5e082b.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaG5TQ10gcfSmPxZvR16"
+    },
+    {
+        "constituency": "PS-73 (Sujawal-l)",
+        "candidate": "Deedar Ali",
+        "symbolname": "DICE \u067e\u0627\u0646\u0633\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dice.3978ab49.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaL8Je4G8l5Df7xJTB2J"
+    },
+    {
+        "constituency": "PS-75 (Thattha-l)",
+        "candidate": "Syed Amjad Hussain Shah",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKRyy1BA1esaJaum22I"
+    },
+    {
+        "constituency": "PS-77 (Jamshoro-l)",
+        "candidate": "Muhammad Farooque",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKYbHe0VycM6Cz1sf1N"
+    },
+    {
+        "constituency": "PS-79 (Jamshoro-lll)",
+        "candidate": "Peer Murtaza Shah Jeelani",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKYbHe0VycM6Cz1sf1N"
+    },
+    {
+        "constituency": "PS-80 (Dadu-l)",
+        "candidate": "Asghar Ali Shaikh",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKy2hGIiRp30ri0pv3A"
+    },
+    {
+        "constituency": "PS-81 (Dadu-ll)",
+        "candidate": "Majeed Khoso",
+        "symbolname": "CAKE \u06a9\u06cc\u06a9",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cake.46a09100.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKy2hGIiRp30ri0pv3A"
+    },
+    {
+        "constituency": "PS-82 (Dadu-lll)",
+        "candidate": "Zulfiqar Mallah",
+        "symbolname": "DOLPHIN \u0688\u0648\u0644\u0641\u0646",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dolphin.a0967df3.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKlwVWAzNc1eJySXi2i"
+    },
+    {
+        "constituency": "PS-83 (Dadu-lV)",
+        "candidate": "Ali Anwar Panhwar",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://whatsapp.com/channel/0029VaKlwVWAzNc1eJySXi2i"
+    },
+    {
+        "constituency": "PS-84 (Malir-l)",
+        "candidate": "Zain Ul Abideen",
+        "symbolname": "TABLE TENNIS BAT \u0679\u06cc\u0628\u0644 \u0679\u06cc\u0646\u0633 \u06a9\u0627 \u0628\u06cc\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table-tennis-bat.8febc139.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKAo4xFSAt42mfJ1R1y"
+    },
+    {
+        "constituency": "PS-85 (Malir-ll)",
+        "candidate": "Mahwish Rao",
+        "symbolname": "HUKKAH \u062d\u0642\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/hukkah.bace7b1f.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKAo4xFSAt42mfJ1R1y"
+    },
+    {
+        "constituency": "PS-86 (Malir-lll)",
+        "candidate": "Hanif Bangash",
+        "symbolname": "KETTLE \u06a9\u06cc\u062a\u0644\u06cc",
+        "image_url": "https://insafpk.github.io/pticandidates/img/kettle.807c8945.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaFzM5sDp2PzyExwIN1Q"
+    },
+    {
+        "constituency": "PS-87 (Malir-IV)",
+        "candidate": "Taus Khan",
+        "symbolname": "CLOCK \u06af\u06be\u0691\u06cc\u0627\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/clock.1404efab.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaFzM5sDp2PzyExwIN1Q"
+    },
+    {
+        "constituency": "PS-88 (Malir-V)",
+        "candidate": "Aijaz Khan Sawati",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaJwKej65yD3FrDwwI31"
+    },
+    {
+        "constituency": "PS-89 (Malt-VI)",
+        "candidate": "Ahsan Khattak",
+        "symbolname": "DISH ANTENNA \u0688\u0634 \u0627\u0646\u0679\u06cc\u0646\u0627",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dish-antenna.7d3675e0.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaJwKej65yD3FrDwwI31"
+    },
+    {
+        "constituency": "PS-90 (Karachi Korangi-l)",
+        "candidate": "Waqas Iqbal Niazi",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaG8hfuKGGGNpJPVZZ3i"
+    },
+    {
+        "constituency": "PS-91 (Karachi Korangi-ll)",
+        "candidate": "Syed Hammad Hussain",
+        "symbolname": "KEY CHAIN \u06a9\u06cc \u0686\u06cc\u0646",
+        "image_url": "https://insafpk.github.io/pticandidates/img/key-chain.3c061997.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaG8hfuKGGGNpJPVZZ3i"
+    },
+    {
+        "constituency": "PS-92 (Karachi Korangi-lll)",
+        "candidate": "Wajid Hussain Khan",
+        "symbolname": "STILL CAMERA \u0633\u0679\u0644 \u06a9\u06cc\u0645\u0631\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/still-camera.a4cc16c3.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaK6Eu3BadmYzlafID3S"
+    },
+    {
+        "constituency": "PS-93 (Karachi Korangi-lV)",
+        "candidate": "Sajid Hussain Meer",
+        "symbolname": "STILL CAMERA \u0633\u0679\u0644 \u06a9\u06cc\u0645\u0631\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/still-camera.a4cc16c3.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaK6Eu3BadmYzlafID3S"
+    },
+    {
+        "constituency": "PS-94 (Karachi Korangi-V)",
+        "candidate": "Abdul Qadeer",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKHEO6Ae5Vs01wnof2x"
+    },
+    {
+        "constituency": "PS-95 (Karachi Korangi-Vl)",
+        "candidate": "Raja Azhar",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKHEO6Ae5Vs01wnof2x"
+    },
+    {
+        "constituency": "PS-96 (Karachi Korangi-VII)",
+        "candidate": "Muhammad Awais",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKHEO6Ae5Vs01wnof2x"
+    },
+    {
+        "constituency": "PS-97 (Karachi East-I)",
+        "candidate": "Bashir Ahmed Sodhar",
+        "symbolname": "LAPTOP \u0644\u06cc\u067e \u0679\u0627\u067e",
+        "image_url": "https://insafpk.github.io/pticandidates/img/laptop.f2eba7a7.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKGSN12kNFhO9GSKJ0j"
+    },
+    {
+        "constituency": "PS-98 (Karachi East-Il)",
+        "candidate": "Jansher Junejo",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKGSN12kNFhO9GSKJ0j"
+    },
+    {
+        "constituency": "PS-99 (Karachi East-Ill)",
+        "candidate": "Zain Pervaiz",
+        "symbolname": "HUMAN EYE \u0627\u0646\u0633\u0627\u0646\u06cc \u0627\u0646\u06a9\u06be",
+        "image_url": "https://insafpk.github.io/pticandidates/img/Human-Eye.93a1ef5e.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaG7g5O5vKA0WJLTDy0r"
+    },
+    {
+        "constituency": "PS-100 (Karachi East-IV)",
+        "candidate": "Syed Muhammad Taha",
+        "symbolname": "BADGE \u0628\u06cc\u062c",
+        "image_url": "https://insafpk.github.io/pticandidates/img/badge.c9d1d2a2.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaG7g5O5vKA0WJLTDy0r"
+    },
+    {
+        "constituency": "PS-101 (Karachi East-V)",
+        "candidate": "Agha Arsalan",
+        "symbolname": "T-SHIRT \u0679\u06cc \u0634\u0631\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/t-shirt.57eb1567.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaGR9qr89infPhjDAB3r"
+    },
+    {
+        "constituency": "PS-102 (Karachi East-VI)",
+        "candidate": "Jamal Sidiqui",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaGR9qr89infPhjDAB3r"
+    },
+    {
+        "constituency": "PS-103 (Karachi East-VII)",
+        "candidate": "Ali Ahmad Palh",
+        "symbolname": "TABLE TENNIS BAT \u0679\u06cc\u0628\u0644 \u0679\u06cc\u0646\u0633 \u06a9\u0627 \u0628\u06cc\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table-tennis-bat.8febc139.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKLO6sEKyZM21P1wF0Y"
+    },
+    {
+        "constituency": "PS-104 (Karachi East-Vill)",
+        "candidate": "Amjad Jah",
+        "symbolname": "LAPTOP \u0644\u06cc\u067e \u0679\u0627\u067e",
+        "image_url": "https://insafpk.github.io/pticandidates/img/laptop.f2eba7a7.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKLO6sEKyZM21P1wF0Y"
+    },
+    {
+        "constituency": "PS-105 (Karachi East-IX)",
+        "candidate": "Hanif Sawati",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKLO6sEKyZM21P1wF0Y"
+    },
+    {
+        "constituency": "PS-106 (Karachi South-I)",
+        "candidate": "Sajjad Ali Soomro",
+        "symbolname": "Dhol \u0688\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dhol.891edec2.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaFcGvi2v1Iw851tbc2e"
+    },
+    {
+        "constituency": "PS-107 (Karachi South-Il)",
+        "candidate": "Khalid Roy",
+        "symbolname": "Dhol \u0688\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dhol.891edec2.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaFcGvi2v1Iw851tbc2e"
+    },
+    {
+        "constituency": "PS-108 (Karachi South-Ill)",
+        "candidate": "Murad Shaikh",
+        "symbolname": "Dhol \u0688\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dhol.891edec2.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaH78r6CnA7oz6Xbd10f"
+    },
+    {
+        "constituency": "PS-109 (Karachi South-IV)",
+        "candidate": "Bilal Jadoon",
+        "symbolname": "Dhol \u0688\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dhol.891edec2.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaFWoZXLNSa8GHmFjK1h"
+    },
+    {
+        "constituency": "PS-110 (Karachi South-V)",
+        "candidate": "Rehan Bandookra",
+        "symbolname": "Dhol \u0688\u06be\u0648\u0644",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dhol.891edec2.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaFWoZXLNSa8GHmFjK1h"
+    },
+    {
+        "constituency": "PS-111 (Karachi Keemari-l)",
+        "candidate": "Amjad Iqbal Afridi",
+        "symbolname": "TABLE \u0645\u06cc\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table.e8d22a10.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaGPhKSLI8YZIKmoNS3i"
+    },
+    {
+        "constituency": "PS-112 (Karachi Keemari-ll)",
+        "candidate": "Sarbuland Khan",
+        "symbolname": "TABLE \u0645\u06cc\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table.e8d22a10.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaK4QnZ9Bb63URy6B30x"
+    },
+    {
+        "constituency": "PS-113 (Karachi Keemari-lll)",
+        "candidate": "Ghulam Qadir",
+        "symbolname": "TABLE \u0645\u06cc\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table.e8d22a10.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaK4QnZ9Bb63URy6B30x"
+    },
+    {
+        "constituency": "PS-114 (Karachi Keemari-lV)",
+        "candidate": "Muhammad Shabeer Qureshi",
+        "symbolname": "TABLE \u0645\u06cc\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table.e8d22a10.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaK4QnZ9Bb63URy6B30x"
+    },
+    {
+        "constituency": "PS-115 (Karachi Keemari-V)",
+        "candidate": "Shah Nawaz Jadoon",
+        "symbolname": "TABLE \u0645\u06cc\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/table.e8d22a10.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaGPhKSLI8YZIKmoNS3i"
+    },
+    {
+        "constituency": "PS-116 (Karachi West-I)",
+        "candidate": "Rabistan Khan",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaG6YU6BadmaAWyyML13"
+    },
+    {
+        "constituency": "PS-117 (Karachi West-Il)",
+        "candidate": "Tariq Hussain",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaG6YU6BadmaAWyyML13"
+    },
+    {
+        "constituency": "PS-118 (Karachi West-Ill)",
+        "candidate": "Sauleh Zada Hassan Khan",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaL9oBxF1YlRtZdBkf2F"
+    },
+    {
+        "constituency": "PS-119 (Karachi West-IV)",
+        "candidate": "Saeed Afridi",
+        "symbolname": "AEROPLANE \u06c1\u0648\u0627\u06cc \u062c\u06c1\u0627\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/aeroplane.0ea1932b.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaL9oBxF1YlRtZdBkf2F"
+    },
+    {
+        "constituency": "PS-120 (Karachi West-V)",
+        "candidate": "Syed Shafiq Shah",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaJjhxF89inny9bkcT2i"
+    },
+    {
+        "constituency": "PS-121 (Karachi West-VI)",
+        "candidate": "Dr. Shakeel Ahmed",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaJjhxF89inny9bkcT2i"
+    },
+    {
+        "constituency": "PS-122 (Karachi Central-I)",
+        "candidate": "Farhan Saleem Ghouri",
+        "symbolname": "RACKET \u0631\u06cc\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/racket.be0807b8.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKTalB4IBhHiYrjMh1Q"
+    },
+    {
+        "constituency": "PS-123 (Karachi Central-Il)",
+        "candidate": "Imtiaz Ahmad",
+        "symbolname": "AEROPLANE \u06c1\u0648\u0627\u06cc \u062c\u06c1\u0627\u0632",
+        "image_url": "https://insafpk.github.io/pticandidates/img/aeroplane.0ea1932b.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKTalB4IBhHiYrjMh1Q"
+    },
+    {
+        "constituency": "PS-124 (Karachi Central-Ill)",
+        "candidate": "Wajahat Siddique",
+        "symbolname": "P",
+        "image_url": "https://insafpk.github.io/pticandidates/img/alphabet-p.7642576f.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaEx4x2F1YlWAM1oNe2u"
+    },
+    {
+        "constituency": "PS-125 (Karachi Central-IV)",
+        "candidate": "Fauzia Siddiqui",
+        "symbolname": "P",
+        "image_url": "https://insafpk.github.io/pticandidates/img/alphabet-p.7642576f.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaEx4x2F1YlWAM1oNe2u"
+    },
+    {
+        "constituency": "PS-126 (Karachi Central-V)",
+        "candidate": "Sheraz Nagani",
+        "symbolname": "GUITAR \u06af\u0679\u0627\u0631",
+        "image_url": "https://insafpk.github.io/pticandidates/img/guitar.3f8f575e.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaEx4x2F1YlWAM1oNe2u"
+    },
+    {
+        "constituency": "PS-127 (Karachi Central-VI)",
+        "candidate": "Irfan Mehboob Jeelani",
+        "symbolname": "P",
+        "image_url": "https://insafpk.github.io/pticandidates/img/alphabet-p.7642576f.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKGcDC4yltRutEp7G3l"
+    },
+    {
+        "constituency": "PS-128 (Karachi Central-Vll)",
+        "candidate": "Saqib Iqbal",
+        "symbolname": "CRICKET STUMPS \u06a9\u0631\u06a9\u0679 \u0648\u06a9\u0679",
+        "image_url": "https://insafpk.github.io/pticandidates/img/cricket-stumps.09877a28.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKGcDC4yltRutEp7G3l"
+    },
+    {
+        "constituency": "PS-129 (Karachi Central-Vlll)",
+        "candidate": "Saif Bari",
+        "symbolname": "DOVE \u0641\u0627\u062e\u062a\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dove.5157b497.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKNgql4Y9ltEq5OHD46"
+    },
+    {
+        "constituency": "PS-130 (Karachi Central-IX)",
+        "candidate": "Faisal Ali",
+        "symbolname": "DOVE \u0641\u0627\u062e\u062a\u06c1",
+        "image_url": "https://insafpk.github.io/pticandidates/img/dove.5157b497.jpg",
+        "whatsapp_link": "https://www.whatsapp.com/channel/0029VaKNgql4Y9ltEq5OHD46"
+    }
+]
